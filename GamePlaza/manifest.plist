@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://767uu-update.oss-cn-shenzhen.aliyuncs.com/phone/Enterprise/GamePlaza/GamePlaza.ipa</string>
+					<string>http://update.767uu.com/phone/Enterprise/GamePlaza/GamePlaza.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://767uu-update.oss-cn-shenzhen.aliyuncs.com/phone/Enterprise/GamePlaza/Icon-57.png</string>
+					<string>http://update.767uu.com/phone/Enterprise/GamePlaza/Icon-57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://767uu-update.oss-cn-shenzhen.aliyuncs.com/phone/Enterprise/GamePlaza/Icon-512.png</string>
+					<string>http://update.767uu.com/phone/Enterprise/GamePlaza/Icon-512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
